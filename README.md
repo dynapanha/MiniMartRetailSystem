@@ -1,22 +1,53 @@
-Login
-username : dynapanha
-password : dynapanha
-or 
-username : admin
-password : admin
+Login Information
 
-About : 
-this small project is for my programming intern interview position, I still have many more things to learn. Please be kind,I am willing to learn anything new,thanks.I have zipped a folder contains database backup file as script for you to test my small system.
-Owner : written by Dyna Panha
+Username: dynapanha
+Password: dynapanha
 
-this system has some small features such as : add product to stock, sell product from stocks with scanning the barcode,after selling the stock is conducted,and print the receipt.
-it has 6 tables in database such as: tblProdct,tblOrder,tblOrderDetail,tblDiscount,tblExchange,tblCategory
+or
 
-How to run project : 
-1.Open project in Visual Studio 
-2.Run the database back up script to have my database created in your machine
-3.Run the project in Visual Studio 
+Username: admin
+Password: admin
 
-Thanks សូមអរគុណ!
+About
 
+This is a small project I created for my programming internship interview.
+I still have many things to learn, but I am eager and willing to improve.
+I included a ZIP file that contains the database backup script so you can test my system.
 
+Owner: Dyna Panha
+
+System Features
+
+This system includes basic stock and sales features such as:
+
+Add products to stock
+
+Sell products using barcode scanning
+
+Automatically update stock after each sale
+
+Print receipts
+
+Uses 6 database tables:
+
+tblProduct
+
+tblOrder
+
+tblOrderDetail
+
+tblDiscount
+
+tblExchange
+
+tblCategory
+
+How to Run the Project
+
+Open the project in Visual Studio.
+
+Run the database backup script to create the database on your machine.
+
+Run the project from Visual Studio.
+
+Thank you! សូមអរគុណ!
